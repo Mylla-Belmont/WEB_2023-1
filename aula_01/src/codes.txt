@@ -1,0 +1,39 @@
+
+-> ADD IMAGEM
+<img src="https://gartic.com.br/imgs/mural/fi/filippokill/calango.png" className="App-logo" alt="logo" />
+<a>
+  Biribinha
+</a>
+
+
+-> VERSÕES function
+//arrow function v1
+// const HelloWolrd = () => {
+//   return (
+//     <div>
+//       <h1>Coisa</h1>
+//     </div>
+//   )
+// }
+
+//arrow function v2
+// class HelloWolrd extends React.Component {
+//   render() {
+//     return (
+//       <div>
+//         <h1>Coisa</h1>
+//       </div>
+//     );
+//   }
+// }
+
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1>Olá mundo!</h1>
+      </header>
+    </div>
+  );
+}

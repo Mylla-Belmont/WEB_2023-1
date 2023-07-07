@@ -1,0 +1,21 @@
+<Battle.World>
+    <Battle.Arena name="Céu"/>
+    <Battle.Arena name="Inferno"/>
+</Battle.World>
+
+<Battle.World>     
+    <Battle.ArenaFinal name="Inferno">
+        <Battle.Hero name="Lord Satan" />
+        <Battle.Enemy name="Holy Ghost" />
+    </Battle.ArenaFinal>
+</Battle.World>
+
+<div className="App"> 
+      <header className="App-header">
+        <Cidades 
+          cidade1={"Fortaleza"}
+          cidade2={"Quixadá"}
+          cidade3={"Iguatu"}
+          cidade4={"Sobral"} />
+      </header>
+    </div>
