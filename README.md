@@ -1,6 +1,6 @@
 # 🌐 Projeto e Atividades da Disciplina Web
 
-Aviso importante: este repositório está um pouco bagunçado — culpa dos perrengues técnicos durante a disciplina! 😅  
+Importante: este repositório está um pouco bagunçado — culpa dos perrengues técnicos durante a disciplina! 😅  
 Mas calma, dentro do projeto principal você vai encontrar todo o material organizado (mais ou menos), incluindo as atividades, anotações, trabalho avaliativo e o meu projeto front-end da Pokedex.
 
 ---
