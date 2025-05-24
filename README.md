@@ -25,7 +25,7 @@ Tudo está concentrado dentro de um único projeto React, que contém:
 
 ## 🧠 Sobre o projeto Pokedex
 
-É um front-end feito em React com foco em TypeScript, consumindo APIs para listar os Pokémons. Infelizmente, não foi continuado.
+Projeto front-end feito em React com foco em TypeScript, consumindo APIs para listar os Pokémons. Infelizmente, não foi continuado.
 
 ![image](https://github.com/user-attachments/assets/ad3db9d5-3d6a-4762-b466-cd7479cfeb6b)
 ![image](https://github.com/user-attachments/assets/dfec8c38-301b-4777-8e5d-6b7b4f4323f3)
